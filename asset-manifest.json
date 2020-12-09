@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/savantasoft/monsters-rolodex/static/css/main.cd870021.chunk.css",
+    "main.js": "/savantasoft/monsters-rolodex/static/js/main.ed17ddea.chunk.js",
+    "main.js.map": "/savantasoft/monsters-rolodex/static/js/main.ed17ddea.chunk.js.map",
+    "runtime-main.js": "/savantasoft/monsters-rolodex/static/js/runtime-main.4e4856c3.js",
+    "runtime-main.js.map": "/savantasoft/monsters-rolodex/static/js/runtime-main.4e4856c3.js.map",
+    "static/js/2.3dfd3ca0.chunk.js": "/savantasoft/monsters-rolodex/static/js/2.3dfd3ca0.chunk.js",
+    "static/js/2.3dfd3ca0.chunk.js.map": "/savantasoft/monsters-rolodex/static/js/2.3dfd3ca0.chunk.js.map",
+    "static/js/3.a75f96e1.chunk.js": "/savantasoft/monsters-rolodex/static/js/3.a75f96e1.chunk.js",
+    "static/js/3.a75f96e1.chunk.js.map": "/savantasoft/monsters-rolodex/static/js/3.a75f96e1.chunk.js.map",
+    "index.html": "/savantasoft/monsters-rolodex/index.html",
+    "static/css/main.cd870021.chunk.css.map": "/savantasoft/monsters-rolodex/static/css/main.cd870021.chunk.css.map",
+    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/savantasoft/monsters-rolodex/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e4856c3.js",
+    "static/js/2.3dfd3ca0.chunk.js",
+    "static/css/main.cd870021.chunk.css",
+    "static/js/main.ed17ddea.chunk.js"
+  ]
+}
